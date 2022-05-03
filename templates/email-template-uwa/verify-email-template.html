@@ -1,0 +1,54 @@
+{% load static %}
+<html>
+<head>
+	<!-- <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0"> -->
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+</head>
+<body>
+<table style="width:100%;border:2px solid #18668f;overflow:scroll;max-width:600px;margin:0 auto">
+		<tbody><tr>
+			<td style="text-align:center;color:#ffffff;font-size:30px;padding:25px 0px">
+				<img src="{% static 'logo/12345.jpg' %}" alt="logo" class="CToWUd">
+			</td>
+		</tr>
+
+<tr>
+			<td>
+				<table style="background:#ffffff;margin:0 auto;height:200px;width:85%;border-radius:13px;text-align:center">
+					<tbody><tr>
+						<td style="font-size:18px;font-weight:bold;padding:20px 40px">Hi,{{username}}</td>
+					</tr>
+		
+					<tr>
+						<td style="font-size:17px;color:#222222;padding:20px 5px;line-height:25px;letter-spacing:0px"> Use below button to verify your email</td>
+					</tr>
+					
+					<tr>
+						<td style="padding-top:30px">
+							<a style="padding: 16px 30px;border-radius: 5px;background-color: #18668f;color: #ffffff;height: 50px;text-decoration: none;border-radius:5px;" href="{{url}}">Verify Email</a>
+						</td>
+					</tr>
+					<tr>
+						<td style="padding:30px 50px 20px 50px;font-size:14px;color:#666666;line-height:24px;letter-spacing:0px"><span class="il">Mega Move</span> Team
+</td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+
+<tr>
+			<td style="color:#18668f;font-size:14px;text-align:center;padding-top:20px;padding-bottom:15px">
+				&nbsp;
+			</td>
+		</tr>
+		
+		<tr>
+			<td style="background-color: #18668f;color:#ffffff;font-size:14px;text-align:center;padding:15px">
+				 2021 Mega Move. All rights reserved.
+			</td>
+		</tr>
+	</tbody></table>
+
+</body>
+</html>

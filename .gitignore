@@ -1,0 +1,7 @@
+.env
+*.pyc
+*.zip
+media
+data_upload/migrations
+uwa.sql
+env

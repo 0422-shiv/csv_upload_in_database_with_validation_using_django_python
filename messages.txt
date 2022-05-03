@@ -1,0 +1,97 @@
+{
+	"user_required_fields":"Fields are required",
+	
+	"user_already_exists":"User already exists",
+
+	"institution_id":"Id doesnot exists",
+
+	"invalid_email":"Enter valid Email",
+
+	"user_registered":"User has Registered Successfully.",
+
+	"after_email_verification":"Your Email Address is successfully verified! Please login to access your account",
+
+	"link_expired":"Activation Link Expired",
+
+	"signed_in":"You have successfully signed in",
+
+	"invalid_email_or_pass":"Invalid credentials, try again",
+
+	"invalid_terms_conditions":"This field is required",
+
+	"email_not_verified":"Email is not verified",
+
+	"Invalid_token":"Invalid token",
+
+	"blank":"This field may not be blank",
+
+	"User_Profile_Succesfully_Updated":"Profile Succesfully Updated",
+
+	"other_error":"Invaild request",
+
+	"authentication_failed":"Invaild Email or Password",
+
+	"country_validation":"not a valid choice in Country",
+
+	"not_authenticated":"Signup or Login first",
+
+	"request_password_link":"We have sent you a link to reset your password",
+
+	"password_reset_Invalid_token":"Token is not valid!, please request a new one",
+
+	"password_mismatch":"Passwords must match",
+
+	"password_length":"Ensure this field has at least 6 characters.",
+
+	"password_reset_successfully":"Password reset successfully",
+
+	"invalid_reset_link":"The reset link is invalid",
+
+	"email_not_found":"Email not found or Enter valid Email",
+
+	"token_not_valid":"token_not_valid",
+
+	"vaild_profile_img":"Upload a valid image. The file you uploaded was either not an image or a corrupted image.",
+
+	"wrong_old_password":"Your old password was entered incorrectly. Please enter it again.",
+
+	"password_confirm_password_matching":"The two password fields didn't match." ,
+
+	"change_password_success":"Your password has been changed successfully." ,
+
+	"logout_bad_token":"Token is expired or invalid",
+
+	"blank_refresh_token":"blank refresh_token",
+
+	"Unsupported file extension. File should be CSV":"Unsupported file extension. File should be CSV",
+
+	"csv_file_uploaded_successfully":"csv file is uploaded successfully",
+
+	"assign_name_successfully":"Name assigned successfully",
+
+	"upload_identifier_does_not_exist":"upload_identifier does not exist",
+
+	"Csv_type_does_not_exist":"Csv_type does not exist",
+
+	"blank_files_array":"Files are required",
+
+	"wrong_csv_type":"wrong csv_type , csv_type should be 'Deployment MetaData', 'Device MetaData' or 'Input Data' ",
+
+	"wrong_fileuploadstatus_id":"Invalid pk \"0\" - object does not exist.",
+
+	"wrong_created_by":"Invalid pk \"0\" - object does not exist.",
+
+	"csv_file_not_submit":"No file was submitted.",
+
+	"required_field":"This field is required.",
+
+	"not_csv_file":"not a csv file,select csv",
+
+	"more_than_five_mb":"Csv file is more than 5mb",
+
+	"less_columns":"Less columns than expected columns in file."
+
+
+
+
+}
